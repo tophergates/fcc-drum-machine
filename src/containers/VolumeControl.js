@@ -99,7 +99,7 @@ class VolumeControl extends Component {
 
     return (
       <VolumeContainer className={isPowerOn ? 'on' : ''}>
-        <label htmlFor="volume" ariaLabel="Volume">
+        <label htmlFor="volume" aria-label={`Current volume: ${volume}`}>
           <input
             onChange={this.handleChange}
             type="range"

@@ -163,7 +163,7 @@ class DrumPads extends Component {
   playAudio = sound => {
     const audio = this.audioRefs.filter(item => item.id === sound.key)[0];
 
-    if (audio) {
+    if (audio && this.props.isPowerOn) {
       audio.volume = this.props.volume / 100;
       audio.currentTime = 0.0;
       audio.play();
