@@ -1,0 +1,211 @@
+{
+  "soundBanks": [
+    {
+      "id": 1,
+      "name": "Drums",
+      "sounds": [
+        {
+          "id": 1,
+          "name": "Crash",
+          "key": "Q",
+          "keyCode": 81,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/crashes/92[kb]909-bright-crash.aif.mp3"
+        },
+        {
+          "id": 2,
+          "name": "Splash",
+          "key": "W",
+          "keyCode": 87,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/crashes/99[kb]curecrash2.aif.mp3"
+        },
+        {
+          "id": 3,
+          "name": "Ride",
+          "key": "E",
+          "keyCode": 69,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/rides/9[kb]cup.aif.mp3"
+        },
+        {
+          "id": 4,
+          "name": "Kick Drum",
+          "key": "A",
+          "keyCode": 65,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/kicks/28[kb]nasty-hard-kick.aif.mp3"
+        },
+        {
+          "id": 5,
+          "name": "Snare",
+          "key": "S",
+          "keyCode": 83,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/snares/37[kb]just_a_big_ass_snare.aif.mp3"
+        },
+        {
+          "id": 6,
+          "name": "Hi-Hat",
+          "key": "D",
+          "keyCode": 68,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/hats/22[kb]brightest-hat.aif.mp3"
+        },
+        {
+          "id": 7,
+          "name": "Hi-Tom",
+          "key": "Z",
+          "keyCode": 90,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/toms/35[kb]hitom.aif.mp3"
+        },
+        {
+          "id": 8,
+          "name": "Mid-Tom",
+          "key": "X",
+          "keyCode": 88,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/toms/40[kb]midtom2.aif.mp3"
+        },
+        {
+          "id": 9,
+          "name": "Low-Tom",
+          "key": "C",
+          "keyCode": 67,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/toms/40[kb]lotom.aif.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Synth",
+      "sounds": [
+        {
+          "id": 10,
+          "name": "Synth Melody 1",
+          "key": "Q",
+          "keyCode": 81,
+          "track": "https://sampleswap.org/samples-ghost/MELODIC%20SAMPLES%20and%20LOOPS/SYNTH%20AND%20ELECTRONIC%20etcetera/178[kb]synth-melody-hyperion1.wav.mp3"
+        },
+        {
+          "id": 11,
+          "name": "Synth Melody 2",
+          "key": "W",
+          "keyCode": 87,
+          "track": "https://sampleswap.org/samples-ghost/MELODIC%20SAMPLES%20and%20LOOPS/SYNTH%20AND%20ELECTRONIC%20etcetera/175[kb]synth-melody-hyperion2.wav.mp3"
+        },
+        {
+          "id": 12,
+          "name": "Synth Melody 3",
+          "key": "E",
+          "keyCode": 69,
+          "track": "https://sampleswap.org/samples-ghost/MELODIC%20SAMPLES%20and%20LOOPS/SYNTH%20AND%20ELECTRONIC%20etcetera/173[kb]synth-melody-hyperion3.wav.mp3"
+        },
+        {
+          "id": 13,
+          "name": "Punchy Bass",
+          "key": "A",
+          "keyCode": 65,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/kicks/26[kb]helium-kick.aif.mp3"
+        },
+        {
+          "id": 14,
+          "name": "Punchy Snare",
+          "key": "S",
+          "keyCode": 83,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/snares/12[kb]elecsnare.aif.mp3"
+        },
+        {
+          "id": 15,
+          "name": "Hi-Hat Open",
+          "key": "D",
+          "keyCode": 68,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/hats/52[kb]cuts-through-it-ohh.aif.mp3"
+        },
+        {
+          "id": 16,
+          "name": "Laser",
+          "key": "Z",
+          "keyCode": 90,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/various%20electronic%20hits/66[kb]laser_spit.aif.mp3"
+        },
+        {
+          "id": 17,
+          "name": "Spin Down",
+          "key": "X",
+          "keyCode": 88,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/various%20electronic%20hits/76[kb]analog_spindown.aif.mp3"
+        },
+        {
+          "id": 18,
+          "name": "Clap",
+          "key": "C",
+          "keyCode": 67,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/claps/74[kb]noise-clap.wav.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Random",
+      "sounds": [
+        {
+          "id": 19,
+          "name": "Crow's Caw",
+          "key": "Q",
+          "keyCode": 81,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/various%20weird%20hits/35[kb]crow-caw.wav.mp3"
+        },
+        {
+          "id": 20,
+          "name": "Clickity Click",
+          "key": "W",
+          "keyCode": 87,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/various%20weird%20hits/74[kb]chewy-crunchy-clicky.wav.mp3"
+        },
+        {
+          "id": 21,
+          "name": "Crunch",
+          "key": "E",
+          "keyCode": 69,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/various%20weird%20hits/23[kb]biting-celery.aif.mp3"
+        },
+        {
+          "id": 22,
+          "name": "808 Kick",
+          "key": "A",
+          "keyCode": 65,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/kicks/152[kb]enormous-808-kick.wav.mp3"
+        },
+        {
+          "id": 23,
+          "name": "Kick 'n Hit",
+          "key": "S",
+          "keyCode": 83,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/kicks/35[kb]church-kik-hit.wav.mp3"
+        },
+        {
+          "id": 24,
+          "name": "Short Roll",
+          "key": "D",
+          "keyCode": 68,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/snares/31[kb]shortsdroll.aif.mp3"
+        },
+        {
+          "id": 25,
+          "name": "Pump it Up!",
+          "key": "Z",
+          "keyCode": 90,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/punches%20hits%20discoblasts%20bombs/13[kb]pumpuphit2.aif.mp3"
+        },
+        {
+          "id": 26,
+          "name": "Kick 'n Crash",
+          "key": "X",
+          "keyCode": 88,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/punches%20hits%20discoblasts%20bombs/31[kb]kickcrash.aif.mp3"
+        },
+        {
+          "id": 27,
+          "name": "Screech",
+          "key": "C",
+          "keyCode": 67,
+          "track": "https://sampleswap.org/samples-ghost/DRUMS%20and%20SINGLE%20HITS/punches%20hits%20discoblasts%20bombs/43[kb]hiphoppity-gliss-up-down.aif.mp3"
+        }
+      ]
+    }
+  ]
+}

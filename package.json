@@ -1,0 +1,23 @@
+{
+  "name": "drum-machine",
+  "description": "Drum Machine. freeCodeCamp Frontend Libraries Project",
+  "author": "Christopher Gates <https://github.com/tophergates>",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "polished": "^2.0.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.0",
+    "styled-components": "^4.0.0-beta.2-0"
+  },
+  "scripts": {
+    "start": "NODE_PATH=src react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
