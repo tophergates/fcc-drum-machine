@@ -90,7 +90,8 @@ class VolumeControl extends Component {
     }
 
     // Dispatch the action to update the volume
-    this.props.updateVolume(value);
+    // Update: Cast value to a number
+    this.props.updateVolume(+value);
   };
 
   // Render the component

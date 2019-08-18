@@ -15,9 +15,8 @@ const StyledBankItem = styled.li`
   button {
     background: ${({ theme }) => rgba(theme.colors.black, 0.7)};
     border: 0;
-    border-bottom: 2px inset ${({ theme }) => rgba(theme.colors.black, 0.5)};
-    border-right: 2px inset ${({ theme }) => rgba(theme.colors.black, 0.5)};
     border-radius: ${({ theme }) => theme.sizes.md};
+    box-shadow: 1px 2px ${({ theme }) => rgba(theme.colors.black, 0.35)};
     color: rgba(215, 215, 215, 0.75);
     cursor: pointer;
     min-height: ${({ theme }) => theme.sizes.xxl};
@@ -27,7 +26,8 @@ const StyledBankItem = styled.li`
     width: 100%;
 
     &:active {
-      border: 0;
+      box-shadow: 0 0 ${({ theme }) => rgba(theme.colors.black, 0.5)};
+      transform: translateY(2px);
     }
   }
 `;
@@ -43,7 +43,7 @@ const BankItem = ({ bank, onClick }) => {
 
   return (
     <StyledBankItem>
-      <button onClick={handleClick}>{bank.id}</button>
+      <button onClick={handleClick}>{bank.name}</button>
     </StyledBankItem>
   );
 };

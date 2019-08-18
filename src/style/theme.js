@@ -25,7 +25,7 @@ export default {
     breakpoints: {
       maxWidth: '96rem',
       minWidth: '32rem',
-      horizontal: '600px' // Pixels are used in media queries on purpose! Relative units are buggy
+      horizontal: '645px' // Pixels are used in media queries on purpose! Relative units are buggy
     }
   }
 };
